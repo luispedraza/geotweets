@@ -18,6 +18,7 @@ from django.urls import path, include
 
 urlpatterns = [
     path('map/', include('map.urls')),
+    path('api/twitter', include('twitterapi.urls')),
     path('admin/', admin.site.urls),
     
 ]

@@ -1,6 +1,9 @@
 # Conda environment:
 .envgeolocation
 
+# MongoDB:
+.mongodb
+
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
