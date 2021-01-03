@@ -9,11 +9,11 @@ Recursos utilizados:
 Tools y APIs:
 * Tweepy https://www.tweepy.org/
 * MongoDB https://www.mongodb.com/
-* Leaflet https://leafletjs.com/
+
 
 Mapas:
 * OpenLayers https://openlayers.org/
+* Leaflet https://leafletjs.com/
 
-Material Design styles:
-* MUI https://www.muicss.com/
+
 
